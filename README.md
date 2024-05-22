@@ -1,5 +1,5 @@
 # StegaINR
-This is the official code for "Hiding Function within Function: Steganography by Implicit Neural Representations" 
+This is the official code for "[Hiding Functions within Functions: Steganography by Implicit Neural Representations](https://arxiv.org/abs/2312.04743)"  
 # Running the code
 This code requires Python 3. 
 # Acknowledgements
